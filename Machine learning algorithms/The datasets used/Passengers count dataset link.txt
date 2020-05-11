@@ -1,0 +1,2 @@
+This is the link for the Kaggle dataset we used for the trip passengers count algorithm:
+https://www.kaggle.com/c/nyc-taxi-trip-duration
